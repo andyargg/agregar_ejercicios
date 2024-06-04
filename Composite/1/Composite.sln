@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{8A16EDF0-25F9-4D3B-8B6A-72BC563EF495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Granja", "Granja\Granja.csproj", "{D14FC3E3-297C-4B99-A939-D2E6420EE1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A16EDF0-25F9-4D3B-8B6A-72BC563EF495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A16EDF0-25F9-4D3B-8B6A-72BC563EF495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A16EDF0-25F9-4D3B-8B6A-72BC563EF495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A16EDF0-25F9-4D3B-8B6A-72BC563EF495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14FC3E3-297C-4B99-A939-D2E6420EE1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14FC3E3-297C-4B99-A939-D2E6420EE1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14FC3E3-297C-4B99-A939-D2E6420EE1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14FC3E3-297C-4B99-A939-D2E6420EE1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AAA565F-69C3-4C15-AFAC-81AB1260F6C6}
+	EndGlobalSection
+EndGlobal
